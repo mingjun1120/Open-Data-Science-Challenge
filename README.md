@@ -44,7 +44,7 @@ Spatial resolution in remote sensing refers to the level of detail or ground cov
 Yes, optical data refers to data captured by optical sensors on satellites, which typically produce images of the Earth's surface. These sensors detect light in the visible, near-infrared, and shortwave infrared parts of the electromagnetic spectrum, and the resulting images can be used to identify and analyze features on the Earth's surface such as vegetation, water bodies, and urban areas.
 
 ## Analysis Region
-1. The data challenge will focus on the An Giang province in the Mekong Delta in Vietnam.
+- The data challenge will focus on the An Giang province in the Mekong Delta in Vietnam.
 - Rice crop yield data was collected from late-2021 to mid-2022 over the Chau Phu, Chau Thanh, and Thoai Son districts.
 - The region is a dense rice crop area with a mixture of double and triple cropping cycles (收割两到三次).
 - The challenge assumes triple cropping (3 cycles per year 一年收割三次) and focuses on the Winter-Spring 2021-2022 season (November to April) and the Summer-Autumn 2022 season (April to August).
